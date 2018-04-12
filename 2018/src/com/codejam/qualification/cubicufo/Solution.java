@@ -7,6 +7,12 @@ import java.util.Locale;
 import java.util.Scanner;
 import java.text.DecimalFormat;
 
+/**
+ *
+ * All wrong!
+ *
+ */
+
 public class Solution {
     public static void main(String[] args) {
         Scanner in = new Scanner(new BufferedReader(new InputStreamReader(System.in)));
